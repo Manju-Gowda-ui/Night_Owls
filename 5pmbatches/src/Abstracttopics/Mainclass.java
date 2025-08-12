@@ -25,4 +25,9 @@ class Mainclass {
 		s1.cool();
 		s1.test();
 	}
+	
+	class Democlass
+	{
+		
+	}
 }
