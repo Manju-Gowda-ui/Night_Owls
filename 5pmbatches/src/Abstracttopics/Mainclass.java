@@ -30,4 +30,12 @@ class Mainclass {
 	{
 		
 	}
+	
+	class demo
+	{
+		public void dummy()
+		{
+			System.out.println("Hey i am test");
+		}
+	}
 }
