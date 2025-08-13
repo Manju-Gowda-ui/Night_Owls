@@ -25,4 +25,17 @@ class Mainclass {
 		s1.cool();
 		s1.test();
 	}
+	
+	class Democlass
+	{
+		
+	}
+	
+	class demo
+	{
+		public void dummy()
+		{
+			System.out.println("Hey i am test");
+		}
+	}
 }
